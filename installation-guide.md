@@ -2,7 +2,7 @@
 
 ## Prerequisites :
 
-Docker installed (docker installation)
+Docker installed (<a href="https://github.com/Ramy99-dev/docker-training/blob/master/1.installation-guide.md">installation guide</a>)
 
 ## Installation 
 
